@@ -1,0 +1,4 @@
+baseURL = "https://veganminipainter.com"
+languageCode = "en-us"
+title = "A Repository of info useful for those avoiding animal cruelty in the miniature world."
+theme = "hugo-future-imperfect"
