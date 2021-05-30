@@ -1,29 +1,22 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "I'm kind of a big deal"
+date = "2021-05-30"
 +++
 
-Hugo is a static site engine written in Go.
+Hello there!
 
+I've started this site to try and gather information and reviews about products suitable for vegans in the hobby industry.  You might be surprised to hear that even some paints contain animal product!
 
-It makes use of a variety of open source projects including:
+Some things you may not have considered:
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+ 
+- Which paints are okay for vegans
+- Epoxy Putties 
+- "Natural" Hair brushes (They mean Fur brushes. It's the Fur Trade.)
+- Polymer Clays
+- Glues
+- Primers
+- Varnishes 
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+also throw in some stuff like Synthetic Brush reviews, FAQs.
 
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!

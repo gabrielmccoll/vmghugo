@@ -41,7 +41,7 @@ canonifyURLs = true
   loadFavicon          = false
   faviconVersion       = ""
   # Sets Social Share links to appear on posts
-  socialShare          = true
+  socialShare          = false
   # Sets specific share to appear on posts (default behavior is to appear)
   socialShareTwitter   = true
   socialShareGoogleplus = true
@@ -102,7 +102,7 @@ canonifyURLs = true
     # Sets Image to be Future Imperfect's hexagon
     imperfect = false
     width     = "250px"
-    alt       = "Hugo Future Imperfect"
+    alt       = "veganminipainter logo"
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
