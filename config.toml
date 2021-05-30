@@ -13,7 +13,7 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+  description          = "A site with helpful info for Vegans in the miniature hobby space"
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "Vegan Hobby Info"
   # Sets where "View More Posts" links
